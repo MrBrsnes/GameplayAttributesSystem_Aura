@@ -1,0 +1,203 @@
+[33mcommit 2d489b6ceb78fe6378f9640701a677febf405534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat May 17 11:23:55 2025 +0200
+
+    Get All Asset Tags
+
+[33mcommit 6728fef4f4135827a82165e8976228875064217a[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat May 17 10:26:55 2025 +0200
+
+    Gamplay Effect Delegates
+
+[33mcommit 70eea64e639753b956b2362cf60c23715c785105[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat May 17 09:59:45 2025 +0200
+
+    Apply Gameplay effects with Tags
+
+[33mcommit 59e4d06750b12d0edcfe96bfbefa57785024a124[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Wed May 14 19:59:57 2025 +0200
+
+    Post Gameplay Effect Execute
+
+[33mcommit 916fcc5bf3a3b90d37432e7c5ada49c56837d738[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Wed May 14 10:20:16 2025 +0200
+
+    Effect Stacking
+
+[33mcommit f98ae4e4014078ff57c5d426efe23e7ee5e14763[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sun May 4 15:35:25 2025 +0200
+
+    Periodic Gameplay Effects
+
+[33mcommit 0d0f86771ea45a21dbbcc45c1b0164b479793b51[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat May 3 14:38:22 2025 +0200
+
+    Duration Gameplay Effects
+
+[33mcommit 5ff77efc7f2a1deb8a4dc7dd261f01730529d87d[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat May 3 13:53:44 2025 +0200
+
+    Instant Gameplay Effects
+
+[33mcommit 571a23b7aa06f743eb528faa80045ed30bb32972[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat May 3 12:29:08 2025 +0200
+
+    Effect Actor Improved
+
+[33mcommit 01af3e06fb2342c9b9c9cf78c8192a23568aa430[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat May 3 10:15:49 2025 +0200
+
+    Callbacks for Mana Changes
+
+[33mcommit a37be523fd5c5ed62f6821d65b4583e299f5138f[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Fri May 2 16:38:40 2025 +0200
+
+    Listening for Attribute Changes
+
+[33mcommit c44b668b44bfd1c19f53a78d12689ea802cee367[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Fri May 2 14:16:33 2025 +0200
+
+    Broadcasting Initial Values
+
+[33mcommit 6b79c04a81fa3f6930710ca01430bdda33d88f3d[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Fri May 2 13:13:29 2025 +0200
+
+    Overlay Widget Controller
+
+[33mcommit 8abbabfd4436853f782f3147364d370386b7096d[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sun Apr 27 16:56:21 2025 +0200
+
+    AuraHUD
+
+[33mcommit 0274d8fb4710e8e8e74fa213128d74270f99ba7d[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat Apr 26 15:32:47 2025 +0200
+
+    Health and Mana Globe
+
+[33mcommit b8d1fda983e379ee641c3701a7960aec15b42adb[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat Apr 26 15:03:17 2025 +0200
+
+    Globe Progress Bars
+
+[33mcommit 544d06707d3309cc2b8fba99d2ea095baac30f20[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat Apr 26 14:05:47 2025 +0200
+
+    Aura User Widget and Widget Controller
+
+[33mcommit 9afc8771479c670b32b1015257bcb1f75561aa85[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Thu Apr 24 21:16:40 2025 +0200
+
+    Effect Actor
+
+[33mcommit f1f1b4429bf74d524eb7947141131a3b1f19149e[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Thu Apr 24 20:17:29 2025 +0200
+
+    Attribute Accessors
+
+[33mcommit 0b4ab37ed28817269d24a3d02a1ad1b4a4c11dc0[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Thu Apr 24 19:49:07 2025 +0200
+
+    Health and Mana
+
+[33mcommit b20f9fce264354fb24fe8d3db09cc1df632f2ed5[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Wed Apr 23 18:20:23 2025 +0200
+
+    Init AbilityActor Info
+
+[33mcommit da421aca020c0aba16a85ea1602203f82eda4989[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Wed Apr 23 17:38:27 2025 +0200
+
+    Replication Mode
+
+[33mcommit c9b4636351a7ce0a65999f180cae8a1d5ffa28c9[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Wed Apr 23 17:28:01 2025 +0200
+
+    Constructing the ASC and AS
+
+[33mcommit 91d660497d8a27b93265c043feb028b3f516a258[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Mon Apr 21 18:35:59 2025 +0200
+
+    AbilitySystemComponent & AttributeSet
+
+[33mcommit 66b19bd1ad5b96355b9c82eea38b633f9f768ed7[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Mon Apr 21 18:13:55 2025 +0200
+
+    Cpp and BP_AuraPlayerState
+
+[33mcommit e7ddece7b9cedf93b96c57d4ff002b0ec83fc3d3[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Mon Apr 21 12:03:32 2025 +0200
+
+    Enemy Interface
+
+[33mcommit 21e314f9f460e42bbdf92a65c9979fa7a0216dbc[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Mon Apr 21 11:31:17 2025 +0200
+
+    Aura Character Movement
+
+[33mcommit aba5293cc090ea7bf447a505dc9af42a9d175c2e[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Mon Apr 21 10:45:06 2025 +0200
+
+    AuraPlayerController
+
+[33mcommit 0bc6d6fdeb4611f1c7595cfb902f2ac4fe4faa86[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Mon Apr 21 10:08:40 2025 +0200
+
+    Enhanced Input Aura
+
+[33mcommit 35931684e7e89f27051fe40802513e65a0be9ab6[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sun Apr 20 13:55:39 2025 +0200
+
+    ABP Aura and Enemy Goblin Spear-Slingshot
+
+[33mcommit a778f94cf9d83e139eebe60d4ddc8c734e66c4e7[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sun Apr 20 13:24:38 2025 +0200
+
+    New BP Aura and Goblin Spear
+
+[33mcommit 671e0b899a481acf06ca2adcedcb3aa109507761[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sun Apr 20 11:38:33 2025 +0200
+
+    New main and enemy character class
+
+[33mcommit d7a1858e74eacadef37e0b033f24564023a7fbf9[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sun Apr 20 11:06:57 2025 +0200
+
+    The Base Character Class
+
+[33mcommit 3d3a45aa25481b28fd8d28c7af6980a03def73c2[m
+Author: MrBrsnes <dsingrin@creative-kitchen.de>
+Date:   Sat Apr 19 14:18:20 2025 +0200
+
+    Initial Project Files
