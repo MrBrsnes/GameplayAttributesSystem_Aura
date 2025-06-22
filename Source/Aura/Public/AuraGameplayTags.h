@@ -31,8 +31,15 @@ public:
 	FGameplayTag Attributes_Secondary_HealthRegeneration;
 	FGameplayTag Attributes_Secondary_ManaRegeneration;
 
+	FGameplayTag InputTag_LMB; // Left Mouse Button
+	FGameplayTag InputTag_RMB; // Right Mouse Button
+	FGameplayTag InputTag_1;   // 1 Key
+	FGameplayTag InputTag_2;   // 2 Key
+	FGameplayTag InputTag_3;   // 3 Key
+	FGameplayTag InputTag_4;   // 4 Key
 
-protected:
+
+
 
 private:
 	static FAuraGameplayTags GameplayTags;
